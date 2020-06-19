@@ -1,0 +1,11 @@
+C:\Users\Prateek\source\repos\Tcp Ip Msg\Tcp Ip Msg\bin\Debug\Tcp Ip Msg.exe.config
+C:\Users\Prateek\source\repos\Tcp Ip Msg\Tcp Ip Msg\bin\Debug\Tcp Ip Msg.exe
+C:\Users\Prateek\source\repos\Tcp Ip Msg\Tcp Ip Msg\bin\Debug\Tcp Ip Msg.pdb
+C:\Users\Prateek\source\repos\Tcp Ip Msg\Tcp Ip Msg\obj\Debug\Tcp Ip Msg.csprojAssemblyReference.cache
+C:\Users\Prateek\source\repos\Tcp Ip Msg\Tcp Ip Msg\obj\Debug\Tcp_Ip_Msg.Form1.resources
+C:\Users\Prateek\source\repos\Tcp Ip Msg\Tcp Ip Msg\obj\Debug\Tcp_Ip_Msg.Properties.Resources.resources
+C:\Users\Prateek\source\repos\Tcp Ip Msg\Tcp Ip Msg\obj\Debug\Tcp Ip Msg.csproj.GenerateResource.cache
+C:\Users\Prateek\source\repos\Tcp Ip Msg\Tcp Ip Msg\obj\Debug\Tcp Ip Msg.exe
+C:\Users\Prateek\source\repos\Tcp Ip Msg\Tcp Ip Msg\obj\Debug\Tcp Ip Msg.pdb
+C:\Users\Prateek\source\repos\Tcp Ip Msg\Tcp Ip Msg\bin\Debug\SimpleTCP.dll
+C:\Users\Prateek\source\repos\Tcp Ip Msg\Tcp Ip Msg\obj\Debug\Tcp Ip Msg.csproj.CopyComplete
